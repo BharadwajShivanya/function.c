@@ -1,0 +1,12 @@
+#include<stdio.h>
+int m()
+{
+   // printf("helloo");
+    printf("Shivanya");
+
+}
+void main ()
+{
+    int k = m();
+    printf ("%d", k);
+}
